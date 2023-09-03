@@ -23,9 +23,10 @@
   </ul>
   
   ![yedia io_index](https://github.com/jennur/jennur/assets/21052053/d6dee00b-711e-4702-810b-1714151a522e)
-  <img width="1788" alt="Screenshot 2023-09-03 at 21 15 20" src="https://github.com/jennur/jennur/assets/21052053/49cbfd16-1cfd-4bc9-b2c4-3dc5a259e624">
-  <img width="1787" alt="Screenshot 2023-09-03 at 21 16 25" src="https://github.com/jennur/jennur/assets/21052053/1576adb8-9417-4293-b651-ffd3d5f566c3">
+  ![yedia io_admin_books_chapters](https://github.com/jennur/jennur/assets/21052053/cfd7a763-103f-4329-a43e-3e9df613b43f)
   <img width="1788" alt="Screenshot 2023-09-03 at 21 16 41" src="https://github.com/jennur/jennur/assets/21052053/08971838-8bb9-4db2-a47b-fdd3947745b9">
+  ![yedia io_admin_books](https://github.com/jennur/jennur/assets/21052053/c33b6750-a77a-4dcc-82a3-3bfd1ae9a10b)
+  
 </details>
 
 <details>
