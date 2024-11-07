@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi there 👋 I'm Jenny!</h1>
-  <p>Norwegian software engineer, currently based in California</p>
+  <p>Norwegian software engineer, currently based in Oslo</p>
 
   <a href="https://www.linkedin.com/in/jenny-bonsak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jenny.bonsak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
